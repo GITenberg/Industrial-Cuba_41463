@@ -1,0 +1,31 @@
+_repo: Industrial-Cuba_41463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41463-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Porter, Robert P. (Robert Percival)
+    alias: Porter, Robert Percival
+    birthdate: 1852
+    deathdate: 1917
+    gutenberg_agent_id: '41189'
+    url: http://www.gutenberg.org/2009/agents/41189
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41463'
+  lccn: '99002455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuba -- Description and travel'
+- !lcsh 'Cuba -- Economic conditions'
+- !lcc 'HC'
+title: "Industrial Cuba\r\nBeing a Study of Present Commercial and Industrial Conditions,\
+  \ with Suggestions as to the Opportunities Presented in the Island for American\
+  \ Capital, Enterprise, and Labour"
+url: http://www.gutenberg.org/ebooks/41463
